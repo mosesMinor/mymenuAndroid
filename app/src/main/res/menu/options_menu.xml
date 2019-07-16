@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/one"
+        android:title="settings" />
+    <item
+        android:id="@+id/two"
+        android:title="more details" />
+    <item
+        android:id="@+id/three"
+        android:title="close app" />
+</menu>
